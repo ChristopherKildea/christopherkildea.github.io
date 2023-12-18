@@ -900,7 +900,16 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #activities h3 {
+
   color: #F06000;
+  text-align: center;
+}
+#activities h5 {
+  color: #ffffff;
+  text-align: center;
+}
+#activities h6 {
+  color: #ffffff;
   text-align: center;
 }
 
