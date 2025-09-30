@@ -1063,10 +1063,11 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .contact-info {
-  margin: 4.8rem auto 0;
-  font-family: "poppins-regular", sans-serif;
-  font-size: 1.5rem;
   text-align: center;
+}
+.contact-info .col-four {
+  display: inline-block;
+  float: none;
 }
 .contact-info .collapse {
   padding: 0;
